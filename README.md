@@ -1,6 +1,3 @@
-# cra-task
-CRA Task
-
 # CAMEL ON SPRING BOOT REST SERVER
 
 ## Description
